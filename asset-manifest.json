@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/StylingComponents/static/css/main.b8bba722.chunk.css",
-    "main.js": "/StylingComponents/static/js/main.b5b6ca40.chunk.js",
-    "main.js.map": "/StylingComponents/static/js/main.b5b6ca40.chunk.js.map",
+    "main.css": "/StylingComponents/static/css/main.febe4d66.chunk.css",
+    "main.js": "/StylingComponents/static/js/main.86a7432b.chunk.js",
+    "main.js.map": "/StylingComponents/static/js/main.86a7432b.chunk.js.map",
     "runtime-main.js": "/StylingComponents/static/js/runtime-main.56b59fa0.js",
     "runtime-main.js.map": "/StylingComponents/static/js/runtime-main.56b59fa0.js.map",
     "static/js/2.d59d05f5.chunk.js": "/StylingComponents/static/js/2.d59d05f5.chunk.js",
     "static/js/2.d59d05f5.chunk.js.map": "/StylingComponents/static/js/2.d59d05f5.chunk.js.map",
     "index.html": "/StylingComponents/index.html",
-    "static/css/main.b8bba722.chunk.css.map": "/StylingComponents/static/css/main.b8bba722.chunk.css.map",
+    "static/css/main.febe4d66.chunk.css.map": "/StylingComponents/static/css/main.febe4d66.chunk.css.map",
     "static/js/2.d59d05f5.chunk.js.LICENSE.txt": "/StylingComponents/static/js/2.d59d05f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.56b59fa0.js",
     "static/js/2.d59d05f5.chunk.js",
-    "static/css/main.b8bba722.chunk.css",
-    "static/js/main.b5b6ca40.chunk.js"
+    "static/css/main.febe4d66.chunk.css",
+    "static/js/main.86a7432b.chunk.js"
   ]
 }
